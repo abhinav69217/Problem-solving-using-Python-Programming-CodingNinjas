@@ -22,3 +22,14 @@ Sample Output :
 
 Answer:-
 
+n = int(input())
+i = 1
+print(1)
+while i<=n-1:
+    print(i, end="")
+    j = 2
+    while j<=i:
+        print(0,end="")
+        j+=1
+    print(i)
+    i+=1
