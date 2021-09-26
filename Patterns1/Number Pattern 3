@@ -20,3 +20,16 @@ Sample Output :
 
 Answer:-
 
+n = int(input())
+i = 1
+print(1)
+while i<=n-1:
+    print("1", end="")
+    j = 2
+    while j<=i:
+        print("2",end="")
+        j+=1
+    print("1")
+    i+=1
+
+
