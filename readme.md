@@ -1,1 +1,1 @@
-<h1>**PROBLEM SOLVING USING PYTHON PROGRAMMING- CODING NINJAS**</h1>
+<h1>Coding-Ninjas-Problem-Solving-Using-Python</h1>
