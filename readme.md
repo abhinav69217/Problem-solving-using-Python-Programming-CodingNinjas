@@ -5,7 +5,8 @@ This repository contains all solutions to the Coding Ninja Python Course.
 Every file contains question and solution both.
 
 Notes provided by Coding Ninjas for each topic has also been uploaded.
-
+[PDF NOTES](https://github.com/abhinav69217/Problem-solving-using-Python-Programming/tree/main/Notes)<br>
+<br>
 1.[Introduction to python](https://github.com/abhinav69217/Problem-solving-using-Python-Programming/tree/main/Introduction%20to%20Python)<br>
 2.[Conditionals and Loops](https://github.com/abhinav69217/Problem-solving-using-Python-Programming/tree/main/Conditionals%20And%20Loops)<br>
 3.[Patterns 1](https://github.com/abhinav69217/Problem-solving-using-Python-Programming/tree/main/Patterns1)<br>
