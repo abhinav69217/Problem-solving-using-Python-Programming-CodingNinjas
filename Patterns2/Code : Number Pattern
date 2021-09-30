@@ -1,4 +1,4 @@
-<h3>Print the following pattern for n number of rows.
+Print the following pattern for n number of rows.
 For eg. N = 5
 
 1                1
@@ -13,7 +13,6 @@ Sample Output 1 :
 12        21
 123    321
 12344321
-</h3>
 
 
 Answer:-
