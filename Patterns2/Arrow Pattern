@@ -1,0 +1,58 @@
+Print the following pattern for the given number of rows.
+Assume N is always odd.
+Note : There is space after every star.
+Pattern for N = 7
+*
+ * *
+   * * *
+     * * * *
+   * * *
+ * *
+*
+Input format :
+Integer N (Total no. of rows)
+Output format :
+Pattern in N lines
+Sample Input :
+11
+Sample Output :
+*
+ * *
+   * * *
+     * * * *
+       * * * * *
+         * * * * * *
+       * * * * *
+     * * * *
+   * * *
+ * *
+*
+
+
+
+Answer:-
+
+
+n = int(input())
+i = 0
+while(i<n):
+    k=1
+    j=0
+    if(i<n//2):
+        while(k<=i):
+            print(" ",end="")
+            k=k+1
+        while(j<=i):
+            print("* ",end="")
+            j=j+1
+    else:
+        k=i
+        j=i
+        while(k<n-1):
+            print(" ",end="")
+            k=k+1
+        while(j<=n-1):
+            print("* ",end="")
+            j=j+1
+    i=i+1
+    print()
