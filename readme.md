@@ -11,3 +11,4 @@ Notes provided by Coding Ninjas for each topic has also been uploaded.
 2.[Conditionals and Loops](https://github.com/abhinav69217/Problem-solving-using-Python-Programming/tree/main/Conditionals%20And%20Loops)<br>
 3.[Patterns 1](https://github.com/abhinav69217/Problem-solving-using-Python-Programming/tree/main/Patterns1)<br>
 4.[Patterns 2](https://github.com/abhinav69217/Problem-solving-using-Python-Programming/tree/main/Patterns2)<br>
+5.[More on Loops](https://github.com/abhinav69217/Problem-solving-using-Python-Programming-CodingNinjas/tree/main/More%20on%20Loops)<br>
