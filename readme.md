@@ -15,3 +15,4 @@ Notes provided by Coding Ninjas for each topic has also been uploaded.
 6.[Functions](https://github.com/abhinav69217/Problem-solving-using-Python-Programming-CodingNinjas/tree/main/Functions)<br>
 7.[Arrays & Lists](https://github.com/abhinav69217/Problem-solving-using-Python-Programming-CodingNinjas/tree/main/Arrays%20and%20Lists)<br>
 8.[Searching & Sorting](https://github.com/abhinav69217/Problem-solving-using-Python-Programming-CodingNinjas/tree/main/Searching%20%26%20Sorting)<br>
+9.[Two Dimensional Lists](https://github.com/abhinav69217/Problem-solving-using-Python-Programming-CodingNinjas/tree/main/Two%20Dimensional%20Lists)<br>
