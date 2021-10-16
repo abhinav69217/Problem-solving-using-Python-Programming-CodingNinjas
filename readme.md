@@ -14,3 +14,4 @@ Notes provided by Coding Ninjas for each topic has also been uploaded.
 5.[More on Loops](https://github.com/abhinav69217/Problem-solving-using-Python-Programming-CodingNinjas/tree/main/More%20on%20Loops)<br>
 6.[Patterns 1](https://github.com/abhinav69217/Problem-solving-using-Python-Programming-CodingNinjas/tree/main/Patterns1)<br>
 7.[Patterns 2](https://github.com/abhinav69217/Problem-solving-using-Python-Programming-CodingNinjas/tree/main/Patterns2)<br>
+8.[Searching & Sorting](https://github.com/abhinav69217/Problem-solving-using-Python-Programming-CodingNinjas/tree/main/Searching%20%26%20Sorting)<br>
