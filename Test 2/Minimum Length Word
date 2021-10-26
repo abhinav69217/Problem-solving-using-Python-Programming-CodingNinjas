@@ -1,0 +1,25 @@
+Given a string S (that can contain multiple words), you need to find the word which has minimum length.
+Note : If multiple words are of same length, then answer will be first minimum length word in the string.
+Words are seperated by single space only.
+Input Format :
+String S
+Output Format :
+Minimum length word
+Constraints :
+1 <= Length of String S <= 10^5
+
+
+Answer:--
+
+str=input()
+sub_str=str.split(" ")
+minInd=0
+min=0
+
+min=len(sub_str[0])
+for inn in range(0,len(sub_str)):
+    len1=len(sub_str[inn])
+    if len1<min:
+        min=len1
+        minInd=inn
+print(sub_str[minInd])
